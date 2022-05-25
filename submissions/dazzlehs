@@ -1,0 +1,21 @@
+Discord Handle: Dazzle#777
+
+
+Router Track Mission 1 (09.05-16.05)
+  Spinning up a router on the testnet
+
+Router address is: 0x54d5B7E7Ddc83e09835C4be945Dd057Ca57b8173
+
+Added liquidity 5,000 on Rinkeby:
+  tx hash: 0x069d3d82dfc9b6b01d345f25429e4ae56b0dd290bf85350de9d82061eaa27b7a
+
+Added liquidity 5,000 on Kovan:
+  tx hash: 0xb17e64c545dbeadd40d3c2d29d2d5a5335996e4d565dc7840bae16ef8ca72bbf
+
+Added liquidity 5,000 on Goerli:
+  tx hash: 0xc26460434bcf76c553304b3683d11d0eb7aae127b4e5740465b0aa6c4dd53ee5
+
+Performed a swap from Gorli to Kovan of 100 TEST
+https://testnet.amarok.connextscan.io/tx/0x93d6c698b31e4f3b7e0ce2c484ebfa9c8585822795050eb529cf055e0983cea7
+Performed a swap from Kovan to Gorli of 100 TEST
+https://testnet.amarok.connextscan.io/tx/0x092673f0715dab8785d1ed2c281660a64e576f8ca6ab9983466117ed26023832
